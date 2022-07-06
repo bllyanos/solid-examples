@@ -8,3 +8,15 @@ In this example I try to give the reader an example of SRP implementation by cre
 List of examples:
 - `./srp/bad.ts`
 - `./srp/good.ts`
+
+## Open Close Principle
+> (TODO)
+
+## Liskov Substitution Principle
+> (TODO)
+
+## Interface Segregation Principle
+> (TODO)
+
+## Dependency Inversion Principle
+> (TODO)
